@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/albertlaptop/code/cpp/learning_cpp/build",
+  "command": "/usr/bin/g++-7    -g   -o CMakeFiles/Breakout.dir/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o -c /home/albertlaptop/code/cpp/learning_cpp/build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+  "file": "/home/albertlaptop/code/cpp/learning_cpp/build/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp"
+},
+{
+  "directory": "/home/albertlaptop/code/cpp/learning_cpp/build",
+  "command": "/usr/bin/g++-7    -g   -o CMakeFiles/Breakout.dir/telephone_directory/person.cpp.o -c /home/albertlaptop/code/cpp/learning_cpp/telephone_directory/person.cpp",
+  "file": "/home/albertlaptop/code/cpp/learning_cpp/telephone_directory/person.cpp"
+}
+]

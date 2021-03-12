@@ -1,0 +1,1 @@
+/usr/bin/g++-7  -g   CMakeFiles/learn_cpp.dir/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.o CMakeFiles/learn_cpp.dir/telephone_directory/main.cpp.o CMakeFiles/learn_cpp.dir/telephone_directory/person.cpp.o  -o learn_cpp 
